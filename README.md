@@ -1,16 +1,13 @@
-# microblogging
+# Microblogging
 
-A new Flutter application.
+A challenge from Grupo Boticário.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project uses a clean architecture and the GetX package as a state and route manager as well as a dependency injection.
 
-A few resources to get you started if this is your first Flutter project:
+For more details see:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+- [GetX](https://pub.dev/packages/get)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
