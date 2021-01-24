@@ -11,11 +11,13 @@ For more details see:
 - [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [GetX](https://pub.dev/packages/get)
 
-![GitHub Logo](/github_images/signin.png)
-![GitHub Logo](/github_images/sigup.png)
-![GitHub Logo](/github_images/login.png)
-![GitHub Logo](/github_images/forgot.png)
-![GitHub Logo](/github_images/mainpage.png)
-![GitHub Logo](/github_images/lastnews.png)
-![GitHub Logo](/github_images/menu.png)
+<p align="center">
+  <img src="https://github.com/Eronildo/microblogging/blob/master/github_images/signin.png" title="Sign In Page" width="250">
+  <img src="https://github.com/Eronildo/microblogging/blob/master/github_images/sigup.png" title="Sign Up Page" width="250">
+  <img src="https://github.com/Eronildo/microblogging/blob/master/github_images/login.png" title="Login Page" width="250">
+  <img src="https://github.com/Eronildo/microblogging/blob/master/github_images/forgot.png" title="Forgot Password Page" width="250">
+  <img src="https://github.com/Eronildo/microblogging/blob/master/github_images/mainpage.png" title="Main Page" width="250">
+  <img src="https://github.com/Eronildo/microblogging/blob/master/github_images/lastnews.png" title="Last News Page" width="250">
+  <img src="https://github.com/Eronildo/microblogging/blob/master/github_images/menu.png" title="Menu Drawer" width="250">
+</p>
 
