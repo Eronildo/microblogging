@@ -1,6 +1,5 @@
 import 'package:get/get.dart';
 import 'package:meta/meta.dart';
-import 'package:microblogging/src/modules/news/domain/entities/news.dart';
 
 import 'package:microblogging/src/modules/news/domain/usecases/get_latest_news.dart';
 import 'package:microblogging/src/modules/news/presenter/states/news_state.dart';

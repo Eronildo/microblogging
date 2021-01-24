@@ -1,6 +1,6 @@
+import 'package:get_storage/get_storage.dart';
 import 'package:meta/meta.dart';
 import 'package:dartz/dartz.dart';
-import 'package:get_storage/src/storage_impl.dart';
 import 'package:microblogging/src/core/domain/erros/app_errors.dart';
 import 'package:microblogging/src/core/domain/services/local_storage_service.dart';
 import 'package:microblogging/src/core/infrastructure/drivers/local_storage_driver.dart';

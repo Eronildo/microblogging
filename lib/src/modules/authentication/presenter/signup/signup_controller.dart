@@ -28,7 +28,7 @@ class SignupController extends GetxController {
     emailFocusNode.dispose();
     passwordFocusNode.dispose();
     confirmPasswordFocusNode.dispose();
-    await super.onClose();
+    super.onClose();
   }
 
   bool get isSubmitButtonEnable => _isSubmitButtonEnable.value;

@@ -23,6 +23,7 @@ class ForgotPasswordController extends GetxController {
     final form = formKey.currentState;
     if (form.validate()) {
       form.save();
+      print('EMAIL: $_email');
       Get.toNamed(
         LoadingPage.ROUTE_NAME,
       );
